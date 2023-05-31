@@ -4,3 +4,5 @@ You're in charge of buying everything that goes on your private space company's 
 Super Space Agency was originally pitched by Kamran Payne; developed by Cody Brown and Kamran Payne; features artwork from Joey Fisher; and has original music from Christopher Medrano and Scott Nubar. 
 
 Made in 2 days for Indie Galactic Space Jam 2018
+
+https://kamran.itch.io/super-space-agency
