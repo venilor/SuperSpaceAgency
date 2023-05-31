@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0f0abbe36104e8dbaa501b749d2835, type: 3}
+  m_Name: WaterRecycling
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 173f24e1e23b043dc9dca1bd69345649, type: 3}
+  _shape:
+    _width: 3
+    _height: 2
+    _shape: 010101010101
+  _weight: 300
+  _food: 1
+  _water: 2
+  _readiness: 1
+  _fuel: 1
+  _type: modify
+  _fullName: Water Recycling System
+  _description: 
+  _cost: 3000
